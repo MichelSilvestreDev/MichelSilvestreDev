@@ -1,5 +1,5 @@
 # Oii! Eu sou o Michel Lima 👋
-### Desenvolvedor Front-end Pleno ⚛️
+### Desenvolvedor full stack pleno ⚛️
 
 ###
 - 📆 Sou desenvolvedor web há mais de 5 anos
