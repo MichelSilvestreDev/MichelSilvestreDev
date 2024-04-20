@@ -2,7 +2,7 @@
 ### Desenvolvedor Front-end Pleno ⚛️
 
 ###
-- 📆 Sou progamador front-end há 5 anos
+- 📆 Sou desenvolvedor web há mais de 5 anos
 - 🔭 Atualmente trabalho como freelance pela <a href="https://www.linkedin.com/company/lifetimepc/" target="_blank"> LifeTime </a>
 - 🌱 Estou estudando CI/CD com o GitHub Actions
 - 😄 Pronouns: Ele/Dele
