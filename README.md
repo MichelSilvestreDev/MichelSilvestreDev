@@ -3,8 +3,7 @@
 
 ###
 - 📆 Sou desenvolvedor web há mais de 5 anos
-- 🔭 Atualmente trabalho como desenvolvedor fullstack pela <a href="https://tascomtecnologia.com.br" target="_blank"> Tascom </a>
-- 🌱 Estou estudando CI/CD com o GitHub Actions
+- 🔭 Atualmente trabalho como desenvolvedor fullstack pela <a href="https://www.ifollow.com.br" target="_blank"> IFollow </a>
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Sou apaixonado por jogos, tanto eletronicos como os de tabuleiro
 ### 📫 Como me contatar:
