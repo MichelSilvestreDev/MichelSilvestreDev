@@ -1,12 +1,11 @@
-# Oii! Eu sou o Michel Silvestre 👋
-### Desenvolvedor full stack ⚛️
+# Hi there! I'm Michel Silvestre 👋
+### a Software Developer with 6 years of experience ⚛️
+
 
 ###
-- 📆 Sou desenvolvedor web há mais de 5 anos
-- 🔭 Atualmente trabalho como desenvolvedor fullstack pela <a href="https://www.ifollow.com.br" target="_blank"> IFollow </a>
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Sou apaixonado por jogos, tanto eletronicos como os de tabuleiro
-### 📫 Como me contatar:
+Throughout my career, I've worked at startups and mid-sized companies, leading the development of web applications using NestJS, Express, Node.js, Next.js, React.js, and other technologies. I prioritize clean code, SOLID principles, and best programming practices to build scalable and maintainable solutions.
+
+### 📫 How to contact me:
 <div>
   <!--
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -15,7 +14,7 @@
   <a href="https://www.linkedin.com/in/michel-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Linguagens e ferramentas que uso
+## Stacks
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="" width="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
