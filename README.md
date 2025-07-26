@@ -1,5 +1,5 @@
 # Hi there! I'm Michel Silvestre 👋
-### a Software Developer with 6 years of experience ⚛️
+a Software Developer with 6 years of experience ⚛️
 
 
 ###
